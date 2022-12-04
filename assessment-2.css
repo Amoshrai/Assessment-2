@@ -1,0 +1,48 @@
+#A{
+    text-align: center;
+    border: 4px solid rgb(4, 177, 251);
+    width: 700px;
+    height: 70px;
+    background-color: black;
+    color: gold;
+}
+h3{
+    text-align: left;
+}
+#B{
+    color: red;
+    background-color: lightskyblue;
+    border: 5px dotted rgb(17, 14, 7);
+    width: 400px;
+}
+body{
+    background: linear-gradient(orange,white,blue,grey);
+    height: 1500px;
+}
+#E{
+    border: 4px solid red;
+    height: 250px;
+    width: 400px;
+
+}
+#C{
+    height: 300px;
+    width: 450px;
+    border: 4PX solid rgb(17, 0, 255);
+    height: 250px;
+    width: 450px;
+}
+P{
+    font-size: 30px;
+}
+h5{
+    font-size: 30px;
+}
+.ab{
+    font-size: 30px;
+    color: black;
+    background-color: blanchedalmond;
+}
+#G{
+    text-align: center;
+}
